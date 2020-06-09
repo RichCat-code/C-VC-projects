@@ -1,2 +1,2 @@
-# C-VC-projects
+# CSharp-VCSharp-projects
 some programs based on C#.
