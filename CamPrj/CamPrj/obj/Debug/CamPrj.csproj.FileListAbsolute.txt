@@ -1,0 +1,18 @@
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\bin\Debug\CamPrj.exe.config
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\bin\Debug\CamPrj.exe
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\bin\Debug\CamPrj.pdb
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.csprojResolveAssemblyReference.cache
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.Form1.resources
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.Properties.Resources.resources
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.csproj.GenerateResource.Cache
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.exe
+C:\Users\dejan.dacic\Desktop\Codes\Visual Studio\C#\(dot)NET_Core\CamPrj\CamPrj\obj\Debug\CamPrj.pdb
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\bin\Debug\CamPrj.exe.config
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\bin\Debug\CamPrj.exe
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\bin\Debug\CamPrj.pdb
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.Form1.resources
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.exe
+C:\Users\Lenovo\Desktop\Items\Programming\C#\.Net-Framework\CamPrj\CamPrj\obj\Debug\CamPrj.pdb
